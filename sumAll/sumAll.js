@@ -9,5 +9,3 @@ const sumAll = function (x, y) {
 }
 
 module.exports = sumAll
-
-console.log(sumAll(4, 1));
